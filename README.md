@@ -6,9 +6,11 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SwissLemons&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwissLemons&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwissLemons&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="147" alt="languages graph"  />
 </div>
 
 ###
@@ -44,13 +46,9 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me/1067654021357260800" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord%20-%20swisslemon&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp%20-%2047%20999500967&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail%20-%20jorgeputs150@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
 
 ###
