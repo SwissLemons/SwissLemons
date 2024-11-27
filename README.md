@@ -11,6 +11,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SwissLemons&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwissLemons&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="147" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SwissLemons&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -50,11 +51,5 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp%20-%2047%20999500967&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail%20-%20jorgeputs150@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SwissLemons/SwissLemons/output/snake.svg" alt="Snake animation" />
 
 ###
