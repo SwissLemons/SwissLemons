@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Opa, bom dia 👋! Meu nome é Rafael Lemos e eu sou um desenvolvedor de software, de Santa Catarina, adoro programar em Java e sua integração com banco de dados! API. Também gosto bastante de Html, CSS e JavaScript e tenho alguma experiência usando C e Python.</h3>
+<h3 align="left">Opa, bom dia 👋! Meu nome é Rafael Lemos e eu sou um desenvolvedor de software, de Santa Catarina, adoro programar em Java/C# e sua integração com banco de dados e API! Também gosto bastante de Html, CSS e JavaScript e tenho alguma experiência usando C e Python.</h3>
 
 ###
 
